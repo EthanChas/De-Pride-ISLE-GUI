@@ -1,2 +1,1 @@
-# De-Pride-ISLE-GUI
-Very WIP
+Hello! User please not that this is very WIP!
